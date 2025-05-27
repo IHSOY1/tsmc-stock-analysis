@@ -15,7 +15,9 @@ This project analyzes the stock performance of Taiwan Semiconductor Manufacturin
 ##  Result
 
 
-[Stock Chart]：https://raw.githubusercontent.com/IHSOY1/tsmc-stock-analysis/main/TSMC%20Stock%20Price.png
+[Stock Chart]：## Result
+![TSMC Stock Chart](https://raw.githubusercontent.com/IHSOY1/tsmc-stock-analysis/main/TSMC%20Stock%20Price.png)
+
 
 
 
