@@ -15,7 +15,7 @@ This project analyzes the stock performance of Taiwan Semiconductor Manufacturin
 ##  Result
 
 
-![Stock Chart](https://your-uploaded-image-link.png)
+[Stock Chart]
 
 
 ## How to Run
